@@ -3,7 +3,6 @@
 
 - 🌱 Estudando: Estruturas condicionais/sequenciais, Vetores/matrizes em C e C++ 
 - 📫 Contate-me no email: jonas.alves.m88@gmail.com
-- 😄 Pronouns: Ele/ Dele
 
 <div align="rigth">
   <a href="https://github.com/jonasalves88">
