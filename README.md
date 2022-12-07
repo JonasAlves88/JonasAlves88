@@ -16,6 +16,9 @@
 <img align="center" alt="Jonas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <img align="center" alt="Jonas-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 <img align="center" alt="Jonas-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-</div>
+ 
+  ![Snake animation](https://github.com/JonasAlves88/JonasAlves88/blob/output/github-contribution-grid-snake.svg)
+  
+  </div>
 
 ##
