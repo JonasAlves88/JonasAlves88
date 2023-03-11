@@ -1,7 +1,7 @@
 ## Olá!! Eu sou o Jonas Alves 👋
 
 
-- 🌱 Estudando: Estruturas condicionais/sequenciais, Vetores/matrizes em C e C++ 
+- 🌱 Estudando: lógica de programação, HTML/CSS, estruturas condicionais/sequenciais, vetores/matrizes em C, C++,C#, Java 
 - 📫 Contate-me no email: jonas.alves.m88@gmail.com
 
 <div align="rigth">
