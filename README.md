@@ -1,7 +1,8 @@
 ## Olá!! Eu sou o Jonas Alves 👋
 
 
-- 🌱 Estudando: lógica de programação, HTML/CSS, estruturas condicionais/sequenciais, vetores/matrizes em C, C++,C#, Java 
+- 🌱 Estudante de tecnologia com conhecimento em; Lógica de programação/ estruturas condicionais, sequenciais e repetetivas/ vetores/ matrizes.
+- 👨‍💻 Linguagens C, C#, C++, Java
 - 📫 Contate-me no email: jonas.alves.m88@gmail.com
 
 <div align="rigth">
