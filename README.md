@@ -1,9 +1,10 @@
 ## Olá!! Eu sou o Jonas Alves 👋
 
 
-- 🌱 Estudante de tecnologia com conhecimento em; Lógica de programação/ estruturas condicionais, sequenciais e repetetivas/ vetores/ matrizes.
-- 👨‍💻 Linguagens C, C#, C++, Java
+- 🌱 Conhecimento em: Lógica de programação / Vetores / Matrizes/ Estruturas condicionais, sequenciais e repetitivas / SQL ORACLE DATABASE / FIGMA WordPress / Copywriting / S.E.O / Framework Scrum / Metodologia Ágeis.
+- 👨‍💻 Linguagens: C, C#, C++, Java, Python
 - 📫 Contate-me no email: jonas.alves.m88@gmail.com
+- 💾 Linkedin: linkedin.com/in/jonas-alves-0a1a91234
 
  <div style="display: inline_block"><br>
 <img align="center" alt="Jonas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
