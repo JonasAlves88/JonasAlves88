@@ -9,8 +9,6 @@
  <div style="display: inline_block"><br>
 <img align="center" alt="Jonas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" alt="Jonas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img align="center" alt="Jonas-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/phyton/csharp-original.svg">
-<img align="center" alt="Jonas-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/c-original.svg">
  
   </div>
 
